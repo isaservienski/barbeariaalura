@@ -1,0 +1,25 @@
+body {
+    background: #30c7cf77;
+}
+
+#banner {
+width: 100%;
+}
+h1 {
+    color:rgb(183, 96, 250);
+    background: paleturquoise;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+}
+#missao{
+    font-size: 30px;
+}
+
+
+em strong {
+    color:rgb(175, 2, 243);
+}
